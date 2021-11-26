@@ -13,6 +13,7 @@ using Microsoft.OpenApi.Models;
 
 namespace Cinema
 {
+    // TESTE
     public class Startup
     {
         public Startup(IConfiguration configuration)
